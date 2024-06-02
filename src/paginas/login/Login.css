@@ -1,0 +1,8 @@
+.fundoLogin {
+  background-image: url(../../assets/login.gif);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  width: 80%;
+  background-size: contain;
+  background-position: center;
+}
